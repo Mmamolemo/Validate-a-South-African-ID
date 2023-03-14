@@ -1,0 +1,6 @@
+venv/
+Pipfile
+__pycache__/
+dist/
+validate_id.egg-info/
+ 
